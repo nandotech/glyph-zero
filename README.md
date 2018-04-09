@@ -1,4 +1,6 @@
 # glyph-zero
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2Fglyph-zero.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2Fglyph-zero?ref=badge_shield)
+
 
 The origin template for all [glyph](https://github.com/dbriemann/glyph) powered blogs.
 
@@ -147,3 +149,7 @@ Today = time.Time type from the Go standard library   # exports the time of buil
 ```
 
 The Go `time.Time` type is documented [here](https://golang.org/pkg/time/#Time).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2Fglyph-zero.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2Fglyph-zero?ref=badge_large)
